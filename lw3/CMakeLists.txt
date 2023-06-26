@@ -1,0 +1,2 @@
+add_subdirectory(determination)
+add_subdirectory(determinationWithEmpty)
